@@ -26,7 +26,7 @@ class string{
 
 class cla_1{
     public static String a(int i){
-        return "hello yxy: "+i;
+        return "hello: "+i;
     }
 
 
